@@ -35,7 +35,7 @@ $ go env GOROOT GOPATH
 - Get the source code
 
 ``` bash
-$ git clone https://github.com/vapor/vapor.git $GOPATH/src/github.com/vapor
+$ git clone https://github.com/bytom/vapor.git $GOPATH/src/github.com/vapor
 ```
 
 - Build source code
